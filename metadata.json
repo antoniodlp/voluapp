@@ -1,0 +1,7 @@
+{
+  "name": "VoluApp - Sistema de Gestión de Voluntarios",
+  "description": "Una plataforma integral para el registro de voluntarios, programación de turnos y construcción de comunidad.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
